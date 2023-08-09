@@ -7,3 +7,5 @@ this is a mistake
 edited after    git reset HEAD~
 
 v2 line, for the sake of example
+
+v3 line, also for the sake of example
