@@ -15,3 +15,5 @@ new laptop used to add a line
 
 Part2 - line from old laptop
 Part 2 - new laptop adds a line
+
+Part 3 - old laptop - see what happens if no rebase
