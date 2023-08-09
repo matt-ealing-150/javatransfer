@@ -2,3 +2,6 @@ this is some test data
 added to a text file
 
 -- adding some data lines to the data file in the main directory
+
+this is a mistake
+edited after    git reset HEAD~
